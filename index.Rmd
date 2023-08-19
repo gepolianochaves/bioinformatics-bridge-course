@@ -1,0 +1,12 @@
+---
+title: "This is the Bioinformatics Bridge Course website!"
+---
+
+We will analyse neuroblastoma tumor datasets. Neuroblastoma is a pediatric cancer.
+
+<img src="images/neuroblastoma_PDQ.png" style="width:30%">
+
+You can find the notebooks used for instruction in the following links:
+
+1) [Kocak data processing](scripts/01-neuroblastoma-r2-GSE62564.html)
+2) [Kocak Plots](scripts/02-neuroblastoma-r2-plots-GSE62564.html)
