@@ -1,9 +1,45 @@
 name: "bioinformatics-bridge-course-website"
 navbar:
   title: "ReComBio: Research with Computational Biology"
-left:
-  - text: "Home"
-href: index.html
+  type: "inverse"
+  left:
+    - text: "Home"
+      icon: "fa-home"
+      href: index.html
+    - text: "About"  
+      icon: fa-info
+      href: "about.html"
+    - text: "Notebooks"
+      icon: fa-gear
+      menu:
+        - text: "Week 1"
+        - text: "a. Data Download and Processing"
+          href: "notebooks/01-neuroblastoma-r2-GSE62564.html"
+        - text: "b. Data Visualization"
+          href: "notebooks/02-neuroblastoma-r2-plots-GSE62564.html"
+        - text: "---------"
+        - text: "Week 2"
+        - text: "a. Survival Analysis"
+          href: "notebooks/10-Survival-KM-and-Cox-Regression-Kocak-498.html"
+        - text: "---------"
+        - text: "Week 3"
+        - text: "a. Introduction to Python"
+          href: "notebooks/10-Survival-KM-and-Cox-Regression-Kocak-498.html"
+        - text: "b. Logistic Regression for Classification"
+          href: "notebooks/10-Survival-KM-and-Cox-Regression-Kocak-498.html"
+        - text: "---------"
+        - text: "Final Project"
+        - text: "Project 1"
+          href: "notebooks/10-Survival-KM-and-Cox-Regression-Kocak-498.html"
+        - text: "Project 2"
+          href: "notebooks/10-Survival-KM-and-Cox-Regression-Kocak-498.html"
+  # right:
+  #   - icon: fa-question fa-lg
+  #     href: https://example.com
+        
+  # left:
+  #   - text: "Home"
+  #   href: index.html
 # right:
   # - icon: fa-envelope fa-lg
 # href: mailto:<cats@catemail.com>

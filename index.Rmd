@@ -1,12 +1,16 @@
 ---
-title: "This is the Bioinformatics Bridge Course website!"
+title: "Welcome to the 2023 Bioinformatics Bridge Course website!"
 ---
 
-We will analyse neuroblastoma tumor datasets. Neuroblastoma is a pediatric cancer.
+We analyse neuroblastoma and SARS-CoV-2 datasets using R, the terminal (Bash) and Python.
 
 <img src="images/neuroblastoma_PDQ.png" style="width:30%">
 
-You can find the notebooks used for instruction in the following links:
+Syllabus, past materials and lectures can be found in the following links:
 
-1) [Kocak data processing](scripts/01-neuroblastoma-r2-GSE62564.html)
-2) [Kocak Plots](scripts/02-neuroblastoma-r2-plots-GSE62564.html)
+1) [ReComBio Slides](https://docs.google.com/presentation/d/12SRZvPIyyqakpi4PASBkZc0hAlBhHBzw/edit#slide=id.p1)
+2) [Syllabus](https://drive.google.com/drive/u/0/folders/112uVPnDxn77N8NuXTLIpo83VoILpCW-F)
+3) [Recordings](https://drive.google.com/drive/u/0/folders/1GzV2gBVUNHlpKLPrYDvTS07DxeUAw6Td)
+
+In the Notebooks tab, completed notebooks are found with the commands in the languages used.
+
