@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the 2023 Bioinformatics Bridge Course website!"
+title: "Welcome to the 2023 Bioinformatics Bridge Course!"
 ---
 
 We analyse neuroblastoma and SARS-CoV-2 datasets using R, the terminal (Bash) and Python.
