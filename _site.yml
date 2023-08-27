@@ -33,6 +33,9 @@ navbar:
           href: "notebooks/10-Survival-KM-and-Cox-Regression-Kocak-498.html"
         - text: "Project 2"
           href: "notebooks/10-Survival-KM-and-Cox-Regression-Kocak-498.html"
+output:
+  html_document:
+    theme: spacelab
   # right:
   #   - icon: fa-question fa-lg
   #     href: https://example.com
