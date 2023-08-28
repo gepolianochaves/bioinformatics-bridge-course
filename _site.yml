@@ -13,9 +13,11 @@ navbar:
       icon: fa-gear
       menu:
         - text: "Week 1"
-        - text: "a. Data Download and Processing"
+        - text: "a. Introduction"
+          href: "notebooks/Introduction-to-R-and-Terminal.html"
+        - text: "b. Data Download and Processing"
           href: "notebooks/01-neuroblastoma-r2-GSE62564.html"
-        - text: "b. Data Visualization"
+        - text: "c. Data Visualization"
           href: "notebooks/02-neuroblastoma-r2-plots-GSE62564.html"
         - text: "---------"
         - text: "Week 2"
