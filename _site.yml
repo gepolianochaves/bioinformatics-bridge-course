@@ -35,7 +35,7 @@ navbar:
           href: "notebooks/10-Survival-KM-and-Cox-Regression-Kocak-498.html"
         - text: "Project 2"
           href: "notebooks/10-Survival-KM-and-Cox-Regression-Kocak-498.html"
-    - text: "Final Project"
+    - text: "Final Projects"
       icon: fa-address-book-o
       menu:
         - text: "Final Projects"
