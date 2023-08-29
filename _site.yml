@@ -9,7 +9,7 @@ navbar:
     - text: "About"  
       icon: fa-info
       href: "about.html"
-    - text: "Notebooks"
+    - text: "Code notebooks"
       icon: fa-gear
       menu:
         - text: "Week 1"
