@@ -10,7 +10,7 @@ navbar:
       icon: fa-info
       href: "about.html"
     - text: "Code notebooks"
-      icon: fa-gear
+      icon: fa-book
       menu:
         - text: "Week 1"
         - text: "a. Introduction"
@@ -36,7 +36,7 @@ navbar:
         - text: "Project 2"
           href: "notebooks/10-Survival-KM-and-Cox-Regression-Kocak-498.html"
     - text: "Final Project"
-      icon: fa-book
+      icon: fa-address-book-o
       menu:
         - text: "Final Projects"
         - text: "Project 1"
