@@ -13,7 +13,7 @@ navbar:
       icon: fa-book
       menu:
         - text: "Week 1"
-        - text: "a. Introduction"
+        - text: "a. Introduction to R"
           href: "notebooks/Introduction-to-R-and-Terminal.html"
         - text: "b. Data Download and Processing"
           href: "notebooks/01-neuroblastoma-r2-GSE62564.html"
@@ -21,7 +21,9 @@ navbar:
           href: "notebooks/02-neuroblastoma-r2-plots-GSE62564.html"
         - text: "---------"
         - text: "Week 2"
-        - text: "a. Survival Analysis"
+        - text: "a. Introduction to the terminal"
+          href: "notebooks/Introduction-to-the-Terminal.html"
+        - text: "b. Survival Analysis"
           href: "notebooks/10-Survival-KM-and-Cox-Regression-Kocak-498.html"
         - text: "---------"
         - text: "Week 3"
