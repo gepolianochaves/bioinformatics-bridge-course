@@ -1,0 +1,3 @@
+@SQ	SN:NC_045512.2	LN:29903
+@RG	ID:SampleCorona	LB:sample_1	PL:ILLUMINA	PM:HISEQ	SM:SampleCorona
+@PG	ID:bwa	PN:bwa	VN:0.7.17-r1188	CL:/Users/gepolianochaves/anaconda3/bin/bwa mem -M -R @RG\tID:SampleCorona\tLB:sample_1\tPL:ILLUMINA\tPM:HISEQ\tSM:SampleCorona ../fasta_reference_file/SARS-CoV-2.fasta ../regions/brazil/2020/fasta/
