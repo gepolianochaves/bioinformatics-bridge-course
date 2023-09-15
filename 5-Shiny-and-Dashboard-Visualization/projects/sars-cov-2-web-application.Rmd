@@ -1,0 +1,18 @@
+---
+title: "SARS-CoV-2 Web Application"
+author: "AneBritt Borchert, Angelina Choy, Angela Jiao, Lucia Losada Terreros, Kira Tang, Gepoliano Chaves"
+date: "(2022)"
+---
+
+
+The spike proteins on SARS-CoV-2, the virus that causes COVID-19, interact with ACE2 receptors on the cell, prompting the cell to envelop the virus in an endosome and bringing it into the cytoplasm. To visualize spike protein mutations, this project aimed to build a tool to show the change in frequency of SARS-CoV-2 variant of interest (mutation) over a period of time.
+
+
+
+
+![Polar interactions between the SARS-CoV-2 Spike RBD protein (white) and the human ACE2 protein (blue) calculated by Pymol using the mutagenesis tool. A) Interaction of wild-type ASN501 (N501) residue in the Spike SARS-CoV protein binding domain (RBD) with tyrosine 41 in ACE2; B) When Asparagine is replaced by Tyrosine in RBD, the number of possible hydrogen interactions increases between Spike RBD and ACE2, possibly explaining the higher affinity between the virus Spike protein and ACE2.](../figures/ACE2_Spike.png){width=90%}
+
+Link to the web application: 
+
+https://gepoliano-chaves.shinyapps.io/scripts/
+

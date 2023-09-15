@@ -1,0 +1,14 @@
+name: scripts
+title: scripts
+username:
+account: gepoliano-chaves
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9884688
+bundleId: 7690767
+url: https://gepoliano-chaves.shinyapps.io/scripts/
+when: 1694807482.67332
+lastSyncTime: 1694807482.67333
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 00-AppTemplate.R|01-AppTemplate.R|02-telephones_modified_sars-2.R|02-telephones.R|03-iris.R|04-AppTemplateSIP2022_example.R|05-SARS_regions_periods.R|06_3.R|06_4.R|06.R|07.R|08.R

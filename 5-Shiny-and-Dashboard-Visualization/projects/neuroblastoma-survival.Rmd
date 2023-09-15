@@ -1,0 +1,15 @@
+---
+title: "Survival Analysis Neuroblastoma"
+author: "Lucia Losada Terreros, Kira Tang, Gepoliano Chaves"
+date: "(2022)"
+---
+
+
+Neuroblastoma is a pediatric cancer of the perypheral nervous system.
+
+
+![Neuroblastoma is a pediatric cancer of the perypheral nervous system.](../figures/neuroblastoma_PDQ.png){width=50%}
+
+Link to the web application: 
+
+https://gepoliano-chaves.shinyapps.io/Survival_2/
